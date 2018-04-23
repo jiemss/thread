@@ -6,6 +6,7 @@ package com.jiem.thread.sync;
  * Created by jiem on 2018/4/22 22:45.
  */
 public class Optimize {
+
     public void doLongTimeTask() {
         try {
 
